@@ -1,8 +1,6 @@
 ![MasterHead](https://i.ibb.co/7J0KqsG/wallpaperflare-com-wallpaper.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+every+one+%2CIam+Youssef+Mohamed+.;I'm+a+Front-end+developer++++++++++)](https://git.io/typing-svg)
 
-<h1 align="center">CIAO 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">A passionate front-end developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CIAO👋,+%2CIam+Youssef+Mohamed+.;A+passionate+front-end+developer++++++++++)](https://git.io/typing-svg)
 <img align="right" alt="Computer" width="450" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <br>
